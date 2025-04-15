@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #f0f2f5;
+    background: #360114;
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
     
@@ -18,7 +18,7 @@ body{
     background: #021758;
     padding: 33px;
     border-radius: 28px;
-    box-shadow: 0 10px 20px rgba(239, 3, 3, 0.25);
+    box-shadow: 0 10px 20px rgba(247, 241, 244, 0.25);
     width: 333px;
 }
 
