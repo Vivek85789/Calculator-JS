@@ -8,14 +8,14 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #360114;
+    background: #ffdddd;
     margin: 0;
     font-family: 'Segoe UI', sans-serif;
     
 }
 
 .container {
-    background: #021758;
+    background: #0e0b17;
     padding: 33px;
     border-radius: 28px;
     box-shadow: 0 10px 20px rgba(247, 241, 244, 0.25);
